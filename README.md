@@ -25,7 +25,7 @@ Servis kesintisi gereken durumlarda minimum etki ve maksimum kontrol sağlamak i
 
 ```bash
 sudo ./tmp_maintenance.sh
-
+```
 Gereksinimler
 Aşağıdaki komut satırı araçlarının sistemde kurulu olması gerekir:
 
